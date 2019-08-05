@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Services">
+            <menu>
+                <item
+                    android:id="@+id/home"
+                    android:title="home" />
+
+                <item
+                    android:id="@+id/seo"
+                    android:icon="@drawable/seo"
+                    android:title="SEO" />
+                <item
+                    android:id="@+id/content_writing"
+                    android:icon="@drawable/content_writing"
+                    android:title="Content Writing" />
+                <item
+                    android:id="@+id/android_dev"
+                    android:icon="@drawable/android"
+                    android:title="Android Development" />
+                <item
+                    android:id="@+id/web_dev"
+                    android:icon="@drawable/webpage"
+                    android:title="Web Development" />
+                <item
+                    android:id="@+id/graphics"
+                    android:icon="@drawable/graphics"
+                    android:title="Graphics" />
+            </menu>
+        </item>
+    </group>
+
+
+
+</menu>

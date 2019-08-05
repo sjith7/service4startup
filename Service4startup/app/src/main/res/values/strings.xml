@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Service4startup</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="seo_text">
+        Gone are the days when having an awesome product was sufficient to succeed. Now the product must be visible as well.
+Studies have shown that 72% of people click the top link in a search engine result page. Our SEO Team goal is to ensure that the top slot is yours.
+    </string>
+</resources>
